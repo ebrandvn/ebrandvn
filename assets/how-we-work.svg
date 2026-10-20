@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="220" viewBox="0 0 1100 220" role="img" aria-label="Cách làm việc: Trao đổi, Chẩn đoán, Thử nhỏ, Đo và mở rộng">
+  <rect width="1100" height="220" rx="0" fill="#F7F3EA"/>
+  <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+    <line x1="150" y1="58" x2="950" y2="58" stroke="#E3DCCD" stroke-width="2"/>
+    <g>
+      <circle cx="150" cy="58" r="22" fill="#FF6A00"/><text x="150" y="65" text-anchor="middle" font-size="18" font-weight="800" fill="#0C2139">01</text>
+      <text x="150" y="122" text-anchor="middle" font-size="20" font-weight="800" fill="#0C2139">Trao đổi</text>
+      <text x="150" y="150" text-anchor="middle" font-size="14" fill="#55606E">Nghe bài toán, kênh bán,</text>
+      <text x="150" y="170" text-anchor="middle" font-size="14" fill="#55606E">nguồn lực hiện có</text>
+    </g>
+    <g>
+      <circle cx="417" cy="58" r="22" fill="#0C2139"/><text x="417" y="65" text-anchor="middle" font-size="18" font-weight="800" fill="#FFFFFF">02</text>
+      <text x="417" y="122" text-anchor="middle" font-size="20" font-weight="800" fill="#0C2139">Chẩn đoán</text>
+      <text x="417" y="150" text-anchor="middle" font-size="14" fill="#55606E">Khâu nào tắc, đo bằng gì,</text>
+      <text x="417" y="170" text-anchor="middle" font-size="14" fill="#55606E">ai làm phần nào</text>
+    </g>
+    <g>
+      <circle cx="683" cy="58" r="22" fill="#0C2139"/><text x="683" y="65" text-anchor="middle" font-size="18" font-weight="800" fill="#FFFFFF">03</text>
+      <text x="683" y="122" text-anchor="middle" font-size="20" font-weight="800" fill="#0C2139">Thử phạm vi nhỏ</text>
+      <text x="683" y="150" text-anchor="middle" font-size="14" fill="#55606E">Một kênh, một quy trình,</text>
+      <text x="683" y="170" text-anchor="middle" font-size="14" fill="#55606E">báo giá tách từng khoản</text>
+    </g>
+    <g>
+      <circle cx="950" cy="58" r="22" fill="#0C2139"/><text x="950" y="65" text-anchor="middle" font-size="18" font-weight="800" fill="#FFFFFF">04</text>
+      <text x="950" y="122" text-anchor="middle" font-size="20" font-weight="800" fill="#0C2139">Đo &amp; mở rộng</text>
+      <text x="950" y="150" text-anchor="middle" font-size="14" fill="#55606E">So trước và sau, bàn giao,</text>
+      <text x="950" y="170" text-anchor="middle" font-size="14" fill="#55606E">chỉ mở rộng khi có bằng chứng</text>
+    </g>
+  </g>
+</svg>
